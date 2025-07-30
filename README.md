@@ -184,7 +184,7 @@ This project lays a strong foundation for future innovations:
 Feel free to connect with me for questions, collaborations, or discussions about this project!
 
 -   GitHub: [VummadiHarsha39](https://github.com/VummadiHarsha39)
--   LinkedIn: [Your LinkedIn Profile URL Here] (Replace with your actual LinkedIn URL)
+-   LinkedIn: [Harsha Vardhan Reddy Vummadi] (https://www.linkedin.com/in/harsha-vardhan-reddy-vummadi-63b464143/)
 
 ## 9. License
 
