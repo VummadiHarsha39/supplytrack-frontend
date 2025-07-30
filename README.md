@@ -49,6 +49,12 @@ Step into the world of SupplyTrack and discover the powerful capabilities at you
     ![SupplyTrack Products Page](Images/product.png)
     *Manage your products with ease.*
 
+#### See the Handover in Action!
+Want to witness the core "farm to restaurant" journey with a live demo of the handover process?
+Watch the video below to see how products change hands and their traceability updates in real-time.
+
+[![Watch the Handover Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)]([LINK_TO_YOUR_YOUTUBE_DEMO_VIDEO])
+
 ### Tracking Product Lifecycle
 -   **Event Logging:** For any product you manage, log critical events (e.g., `SHIPPED`, `RECEIVED`, `QUALITY_CHECK`, `DAMAGED`, `SOLD`) with descriptions and locations. Each event updates the product's live status and contributes to its immutable history.
 -   **Product Handover:** Facilitate seamless transfer of product ownership. As a `FARMER` or `DISTRIBUTOR`, initiate a handover to the next party in the chain, updating the product's ownership and logging a specific "HANDOVER" event. The system intelligently restricts who can perform these crucial actions.
