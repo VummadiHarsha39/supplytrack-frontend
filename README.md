@@ -32,13 +32,13 @@ It seamlessly integrates with a robust [Spring Boot backend API](https://github.
 
 Step into the world of SupplyTrack and discover the powerful capabilities at your fingertips:
 
-![SupplyTrack Homepage](Images/homepage.png)
+![SupplyTrack Homepage](Images/homepage.png.png)
 *Welcome to SupplyTrack: Trace Your Food's Journey.*
 
 ### Your Personalized Control Panel
 -   **Secure User Authentication:** Effortlessly register and log in via intuitive forms. Your identity in the supply chain (Farmer, Distributor, Restaurant) is securely managed, unlocking specific actions relevant to your role.
 -   **Dynamic Dashboard:** Get an immediate overview of your operations, including a live count of products currently under your ownership, providing quick actionable insights.
-    ![SupplyTrack Dashboard](Images/dashboard.png)
+    ![SupplyTrack Dashboard](Images/dashboard.png.png)
     *Your personal dashboard providing key information.*
 
 ### Managing Your Products
