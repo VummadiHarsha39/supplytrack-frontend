@@ -1,4 +1,4 @@
-# SupplyTrack Frontend - Your Window into the Food Supply Chain
+# SupplyTrack Frontend -  Food Supply Chain Application
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://react.dev/)
