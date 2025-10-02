@@ -8,17 +8,16 @@
 ## Table of Contents
 1. [About the Project](#about-the-project)
 2. [Experience the Journey (Features Overview)](#experience-the-journey-features-overview)
-3. [Crafted with Care (Tech Stack)](#crafted-with-care-tech-stack)
-4. [Behind the Scenes (Architecture)](#behind-the-scenes-architecture)
-5. [Getting Started (Your First Glance)](#getting-started-your-first-glance)
+3. [Tech Stack](#tech-stack)
+4. [Architecture](architecture)
+5. [ ( First Glance)](#first-glance)
     - [Prerequisites](#prerequisites)
     - [Backend Prerequisite](#backend-prerequisite)
     - [Frontend Setup](#frontend-setup)
     - [Running the Frontend](#running-the-frontend)
-6. [A Quick Tour of Functionality](#a-quick-tour-of-functionality)
-7. [Future Visions (Beyond the Horizon)](#future-visions-beyond-the-horizon)
-8. [Contact](#contact)
-9. [License](#license)
+6. [Functionality](#functionality)
+7. [Contact](#contact)
+8. [License](#license)
 
 ---
 
@@ -49,7 +48,7 @@ Step into the world of SupplyTrack and discover the powerful capabilities at you
     ![SupplyTrack Products Page](Images/product.png)
     *Manage your products with ease.*
 
-#### See the Handover in Action!
+####  Handover in Action
 Want to witness the core "farm to restaurant" journey with a live demo of the handover process?
 Watch the video below to see how products change hands and their traceability updates in real-time.
 
@@ -59,14 +58,14 @@ Watch the video below to see how products change hands and their traceability up
 -   **Event Logging:** For any product you manage, log critical events (e.g., `SHIPPED`, `RECEIVED`, `QUALITY_CHECK`, `DAMAGED`, `SOLD`) with descriptions and locations. Each event updates the product's live status and contributes to its immutable history.
 -   **Product Handover:** Facilitate seamless transfer of product ownership. As a `FARMER` or `DISTRIBUTOR`, initiate a handover to the next party in the chain, updating the product's ownership and logging a specific "HANDOVER" event. The system intelligently restricts who can perform these crucial actions.
 
-### Unveiling the Full Story (Traceability)
+### Traceability
 -   **Interactive Traceability View:** Click the "Trace" button next to any product to instantly reveal its entire life story. Witness a chronological timeline (presented as a detailed table) of every event, location, timestamp, and the user who acted upon it, from farm to its current destination.
 -   
     ![SupplyTrack Traceability Page](Images/trace-page.png.png)
     *See the complete journey of a product.*
--   **QR Code Magic:** Bridge the physical and digital. Use your device's device's camera to **scan a product's QR code**. The system intelligently decodes the product ID from the QR code and immediately takes you to that specific product's live traceability page, providing instant access to its journey.
+-   **QR Code :** Bridge the physical and digital. Use your device's device's camera to **scan a product's QR code**. The system intelligently decodes the product ID from the QR code and immediately takes you to that specific product's live traceability page, providing instant access to its journey.
 
-## 3. Crafted with Care (Tech Stack)
+## 3. Tech Stack
 
 This frontend application is built using modern and efficient web technologies:
 
@@ -78,7 +77,7 @@ This frontend application is built using modern and efficient web technologies:
 -   **React Router DOM:** Declarative routing library for React, enabling smooth navigation between different application views.
 -   **html5-qrcode:** A versatile JavaScript library integrated for real-time QR code scanning capabilities using the device's camera.
 
-## 4. Behind the Scenes (Architecture)
+## 4. Architecture
 
 The frontend is structured as a Single-Page Application (SPA) built with a component-based architecture:
 
@@ -88,7 +87,7 @@ The frontend is structured as a Single-Page Application (SPA) built with a compo
 -   **Ant Design Integration:** Ant Design components are used throughout the application to ensure a consistent look-and-feel and leverage pre-built UI logic and styling.
 -   **Separation of Concerns:** The frontend focuses purely on the presentation layer and user interaction, while relying entirely on the [SupplyTrack Backend](https://github.com/VummadiHarsha39/supplytrack-backend) for data storage, business logic, and security enforcement.
 
-## 5. Getting Started (Your First Glance)
+## 5.  First Glance
 
 Follow these steps to get the SupplyTrack frontend running on your local machine.
 
@@ -127,7 +126,7 @@ Once both the backend and frontend development servers are running:
 
 You should now see the SupplyTrack homepage with the embedded image.
 
-## 6. A Quick Tour of Functionality
+## 6. Functionality
 
 Follow these steps to experience the full end-to-end flow:
 
