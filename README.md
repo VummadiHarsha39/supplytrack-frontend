@@ -166,26 +166,13 @@ Follow these steps to experience the full end-to-end flow:
     -   Display this QR code on your phone or another screen. Point your webcam at it.
     -   Observe the magic: the system will automatically navigate you to that product's live traceability page!
 
-## 7. Future Visions (Beyond the Horizon)
-
-This project lays a strong foundation for future innovations:
-
--   **JWT Integration:** Transition from HTTP Basic Auth to JWT for more stateless, scalable, and secure authentication sessions.
--   **Advanced Role-Based UI Logic:** Dynamically adapt navigation, forms, and actions based on the logged-in user's role, without relying on backend `403` responses.
--   **Product Image Uploads:** Integrate image storage (e.g., AWS S3) for product photos, enhancing visual traceability.
--   **Real-time Notifications:** Implement WebSockets to push live updates on product events (e.g., "Your product has been received at the warehouse!").
--   **Interactive Mapping:** Integrate geolocation data with mapping services to visualize product routes and current locations on a global map.
--   **Batch Operations:** Develop functionalities for logging events or performing handovers for multiple products simultaneously.
--   **Advanced Search & Filtering:** Implement more robust search, filtering, and sorting capabilities for products and events.
--   **Admin Dashboard:** Create a dedicated administrative interface for user management, system health monitoring, and data oversight.
-
-## 8. Contact
+## 7. Contact
 
 Feel free to connect with me for questions, collaborations, or discussions about this project!
 
 -   GitHub: [VummadiHarsha39](https://github.com/VummadiHarsha39)
 -   LinkedIn: [Harsha Vardhan Reddy Vummadi] (https://www.linkedin.com/in/harsha-vardhan-reddy-vummadi-63b464143/)
 
-## 9. License
+## 8. License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
