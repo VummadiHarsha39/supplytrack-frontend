@@ -7,10 +7,10 @@
 
 ## Table of Contents
 1. [About the Project](#about-the-project)
-2. [Experience the Journey (Features Overview)](#experience-the-journey-features-overview)
+2. [Features Overview](#experience-the-journey-features-overview)
 3. [Tech Stack](#tech-stack)
 4. [Architecture](architecture)
-5. [ ( First Glance)](#first-glance)
+5. [ First Glance](#first-glance)
     - [Prerequisites](#prerequisites)
     - [Backend Prerequisite](#backend-prerequisite)
     - [Frontend Setup](#frontend-setup)
@@ -27,7 +27,7 @@ This repository hosts the **ReactJS frontend** for **SupplyTrack**, a comprehens
 
 It seamlessly integrates with a robust [Spring Boot backend API](https://github.com/VummadiHarsha39/supplytrack-backend) to provide a dynamic and intuitive experience, transforming raw supply chain data into actionable insights and a clear narrative for every product.
 
-## 2. Experience the Journey (Features Overview)
+## 2. Features Overview
 
 Step into the world of SupplyTrack and discover the powerful capabilities at your fingertips:
 
