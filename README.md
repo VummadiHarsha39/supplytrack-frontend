@@ -48,7 +48,7 @@ Step into the world of SupplyTrack and discover the powerful capabilities at you
     ![SupplyTrack Products Page](Images/product.png)
     *Manage your products with ease.*
 
-####  Small Demo
+####  A Quick Walkthrough
 [![Video](https://vumbnail.com/1129732330.jpg)](https://vimeo.com/1129732330)
 
 ### Tracking Product Lifecycle
